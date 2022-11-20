@@ -25,7 +25,7 @@ namespace Business.Concrete
             }
             else
             {
-                Console.WriteLine ("MASKE VERİLMEDİ");   
+                Console.WriteLine ("MASKE VERİLMEDİ...");   
             }
         }
     }
